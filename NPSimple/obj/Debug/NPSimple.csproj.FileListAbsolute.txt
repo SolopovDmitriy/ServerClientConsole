@@ -1,0 +1,7 @@
+D:\c#\lesson 89\NPSimple\obj\Debug\NPSimple.csprojAssemblyReference.cache
+D:\c#\lesson 89\NPSimple\obj\Debug\NPSimple.csproj.CoreCompileInputs.cache
+D:\c#\lesson 89\NPSimple\bin\Debug\NPSimple.exe.config
+D:\c#\lesson 89\NPSimple\bin\Debug\NPSimple.exe
+D:\c#\lesson 89\NPSimple\bin\Debug\NPSimple.pdb
+D:\c#\lesson 89\NPSimple\obj\Debug\NPSimple.exe
+D:\c#\lesson 89\NPSimple\obj\Debug\NPSimple.pdb

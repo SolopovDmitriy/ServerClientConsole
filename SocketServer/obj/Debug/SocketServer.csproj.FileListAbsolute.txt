@@ -1,0 +1,6 @@
+D:\c#\lesson 89\SocketServer\bin\Debug\SocketServer.exe.config
+D:\c#\lesson 89\SocketServer\bin\Debug\SocketServer.exe
+D:\c#\lesson 89\SocketServer\bin\Debug\SocketServer.pdb
+D:\c#\lesson 89\SocketServer\obj\Debug\SocketServer.csproj.CoreCompileInputs.cache
+D:\c#\lesson 89\SocketServer\obj\Debug\SocketServer.exe
+D:\c#\lesson 89\SocketServer\obj\Debug\SocketServer.pdb
